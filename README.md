@@ -5,14 +5,16 @@ I want to get into data and one of the tools I'll need is SQL.
 SQL helps to find answers from datasets, answer stakeholder questions,
 view, modify and delete data. It can do a lot of things I haven't yet discovered.
 
-## How am I learning SQL?
+## How am I learning SQL? 🤔
 I am currently learning on the website SQLBolt. I read through notes and test my knowledge through
 interactive exercises.
 
 ## What have I learnt so far and where am I at?
 * SELECT, WHERE and constraints
+* Filtering and sorting query results e.g. ORDER BY ASC/DESC, LIMIT and OFFSET
+* Simple SELECT queries (review exercise - struggled here 😭)
 
-Currently at SQL Lesson 4: Filtering and sorting Query results
+Currently at SQL Lesson 6: Multi-table queries with JOINs ✏️
 
-## Future goals
+## Future goals 🎯
 Start a project where I use SQL on a publicly available dataset.
